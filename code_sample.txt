@@ -1,0 +1,12 @@
+Assessement form
+This form consists of :
+controller - assessment controller
+view layout- form 
+components  - country-list
+
+1)Form view is spilt into small componets for easy maintainence
+
+2) Layout of form has all components with js
+
+3)Controller has methods to save in db at run time
+ 
